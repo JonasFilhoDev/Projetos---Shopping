@@ -4,3 +4,5 @@
 <h2>Esse foi um projeto que aprendi no <a href="http://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <p>òtimo projeto para desenvolvimento e apredizado sobre responsividade/CSS</p>
+
+<img src="https://github.com/JonasFilhoDev/Projetos---Shopping/blob/main/img/mokup-mobile-pc.png?raw=true">
